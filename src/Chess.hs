@@ -13,3 +13,4 @@ data PType = Pawn | Knight | Bishop | Rook | Queen | King
 
 showPiece :: Piece -> Char
 showPiece 
+Am adaugat o linie noua
